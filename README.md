@@ -1,4 +1,4 @@
-# <img alt="OpenSK logo" src="docs/img/OpenSK.svg" width="200px">
+# <img alt="OpenSK logo" src="docs/img/OpenSK.svg" width="100px">
 
 ![markdownlint](https://github.com/google/OpenSK/workflows/markdownlint/badge.svg?branch=stable)
 ![pylint](https://github.com/google/OpenSK/workflows/pylint/badge.svg?branch=stable)
