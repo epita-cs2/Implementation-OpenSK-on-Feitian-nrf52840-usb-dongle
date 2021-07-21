@@ -424,6 +424,7 @@ Then, you will need to unplug and replug the key for the rule to trigger.
 The name of the product changes from Feitian to OpenSK
 ```shell
 $ dmesg 
+...
 [ 1526.074997] usb 2-2.2: Product: OpenSK
 ```
 
